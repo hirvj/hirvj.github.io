@@ -12,7 +12,7 @@ I am currently a researcher at Etla Economic Research. I will join the [Departme
 
 My research interests are in Industrial Organization and Labor Economics. More specifically, I am interested in how new technology affects the labor market and firm competition.
 
-You can find my CV [here](https://hirvj.github.io/cv/ "CV").
+You can find my CV [here](https://hirvj.github.io/files/CV-Hirvonen.pdf "CV").
 
 ## Contact
 
