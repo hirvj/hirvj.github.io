@@ -11,7 +11,7 @@ You can find a list of my research also on my [Google Scholar profile](https://s
 ## Working Papers
 
 <p id="single-spaced">
-<b>New Evidence on the Effect of Technology on Employment and Skill Demand</b> [[link]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4081625)<br>
+<b>New Evidence on the Effect of Technology on Employment and Skill Demand</b> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4081625">[link]</a><br>
 (with Aapo Stenhammar and Joonas Tuhkuri)<br>
 <em>Under revision for the <b>Quarterly Journal of Economics</b></em><br>
 </p>
