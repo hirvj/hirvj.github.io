@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Department of Economics at Aalto University](https://www.aalto.fi/en/department-of-economics "Aalto, Economics") and [Helsinki GSE](https://www.helsinkigse.fi/ "Helsinki GSE") and an Affiliated Researcher at Etla Economic Research.
+I am a PhD student at the [Department of Economics at Aalto University](https://www.aalto.fi/en/department-of-economics "Aalto, Economics") and [Helsinki GSE](https://www.helsinkigse.fi/ "Helsinki GSE") and an Affiliated Researcher at [Etla Economic Research](https://www.etla.fi/en/ "Etla Economic Research").
 
 My research interests are in Industrial Organization and Labor Economics. More specifically, I am interested in how new technology affects the labor market and firm competition.
 
