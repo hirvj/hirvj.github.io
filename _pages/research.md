@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-My research and policy briefs have been featured in both international (The Economist, Wired) and Finnish (e.g. YLE, Helsingin Sanomat) media outlets. In addition, I've presented my work at multiple academic conferences, as well as at the Ministry of Employment and the Economy of Finland.
+My research and policy briefs have been featured in both international (The Economist, Wired) and Finnish (e.g. YLE, Helsingin Sanomat) media outlets. In addition, I've presented my work at multiple academic conferences, as well as at the Ministry of Economic Affairs and Employment in Finland.
 
 You can find a list of my research also on my [Google Scholar profile](https://scholar.google.fi/citations?user=BWlNAqgAAAAJ&hl=en "Google Scholar").
 
