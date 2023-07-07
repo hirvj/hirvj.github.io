@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Johannes Hirvonen"
 title_separator          : "-"
 name                     : &name "Johannes Hirvonen"
-description              : &description "Researcher at Etla Economic Research"
+description              : &description "PhD Student at Northwestern University"
 url                      : https://johanneshirvonen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hirvj.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Johannes Hirvonen"
   avatar           : "profile.png"
-  bio              : "PhD Student at Aalto University & Affiliated Researcher at Etla Economic Research"
-  location         : "Helsinki, Finland"
+  bio              : "PhD Student at Northwestern University"
+  location         : "Chicago Metropolitan Area, IL, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.fi/citations?user=BWlNAqgAAAAJ&hl=fi&oi=ao"
