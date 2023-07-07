@@ -27,12 +27,22 @@ Abstract: We present novel evidence on the effects of advanced technologies on e
 (with Otto Kässi and Olli Ropponen)<br>
 </p>
 
-We analyze the effect of business development subsidies granted by Business Finland during the covid-19
+We analyze the effect of business development subsidies granted by Business Finland during the COVID-19
 pandemic. Our main research design utilizes random assignment of cases to officials in constructing a judge
 leniency measure, which provides exogenous variation in the probability of receiving a subsidy. We focus on
 central firm-level outcomes, along with tracking the effects of the subsidies on incumbent workers.
 
 ## Policy Briefs
+
+<p id="single-spaced">
+<b>Did Digitalization Increase the Resilience of Societies During the COVID-19 Pandemic?</b> (in Finnish) <a href="https://www.etla.fi/wp-content/uploads/ETLA-Muistio-Brief-119.pdf">[link]</a><br>
+(with Otto Kässi, Jyrki Ali-Yrkkö, and Mika Pajarinen). March 2023.<br>
+</p>
+
+<p id="single-spaced">
+<b>Are Global Value Chains Changing?</b> (in Finnish) <a href="https://www.etla.fi/wp-content/uploads/ETLA-Raportit-Reports-135.pdf">[link]</a><br>
+(with Jyrki Ali-Yrkkö and Mika Pajarinen). February 2023.<br>
+</p>
 
 <p id="single-spaced">
 <b>Policy Brief: New Evidence on the Effect of Technology on Employment and Skill Demand</b> (in Finnish) <a href="https://www.etla.fi/wp-content/uploads/ETLA-Muistio-Brief-108.pdf">[link]</a><br>
