@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Johannes Hirvonen"
 title_separator          : "-"
 name                     : &name "Johannes Hirvonen"
-description              : &description "PhD Student at Northwestern University"
+description              : &description "PhD Student @ Northwestern"
 url                      : https://johanneshirvonen.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hirvj.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Johannes Hirvonen"
   avatar           : "profile.png"
-  bio              : "PhD Student at Northwestern University"
+  bio              : "PhD Student @ Northwestern"
   location         : "Chicago, IL, USA"
   employer         :
   pubmed           : 
