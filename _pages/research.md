@@ -13,7 +13,7 @@ You can find a list of my research also on my [Google Scholar profile](https://s
 ## Working Papers
 
 <p id="single-spaced">
-<b>Winners and Losers of Technology Grants: Evidence on Jobs and Skills</b> <a href="https://www.rfberlin.com/wp-content/uploads/2025/02/25004.pdf"">[link]</a><br>
+<b>Winners and Losers of Technology Grants: Evidence on Jobs and Skills</b> <a href="https://www.rfberlin.com/wp-content/uploads/2025/02/25004.pdf">[link]</a><br>
 (with Aapo Stenhammar and Joonas Tuhkuri)<br>
 <em>Under revision for the <b>Quarterly Journal of Economics</b></em><br>
 </p>
