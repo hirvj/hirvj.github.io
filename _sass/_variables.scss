@@ -53,12 +53,15 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #fff;
-$background-color           : #fff;
+$body-color                 : #1c1c1c;          // Dark background for the entire site
+$background-color           : #1c1c1c;    // Background for sections and containers
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$text-color                 : #e0e0e0;          // Light text for contrast
+$border-color               : #333333;        // Dark borders
+$link-color                 : #b38bff;          // Accent color for links
+$link-color-hover           : #dabfff;     // Lighter hover color for links
+
 
 $primary-color              : #7a8288;
 $success-color              : #62c462;
