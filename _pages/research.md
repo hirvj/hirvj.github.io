@@ -13,12 +13,12 @@ You can find a list of my research also on my [Google Scholar profile](https://s
 ## Working Papers
 
 <p id="single-spaced">
-<b>New Evidence on the Effect of Technology on Employment and Skill Demand</b> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4081625">[link]</a><br>
+<b>Winners and Losers of Technology Grants: Evidence on Jobs and Skills</b> <a href="https://www.rfberlin.com/wp-content/uploads/2025/02/25004.pdf"">[link]</a><br>
 (with Aapo Stenhammar and Joonas Tuhkuri)<br>
 <em>Under revision for the <b>Quarterly Journal of Economics</b></em><br>
 </p>
 
-Abstract: We present novel evidence on the effects of advanced technologies on employment, skill demand, and firm performance. The main finding is that advanced technologies led to increases in employment and no change in skill composition. Our main research design focuses on a technology subsidy program in Finland that induced sharp increases in technology investment in manufacturing firms. Our data directly measure multiple technologies and skills and track firms and workers over time. We demonstrate novel text analysis and machine learning methods to perform matching and to measure specific technological changes. To understand our findings, we outline a theoretical framework that contrasts two types of technological change: process versus product. We document that the firms used new technologies to produce new types of output rather than replace workers with technologies within the same type of production. The results contrast with the ideas that technologies necessarily replace workers or are skill biased.
+Abstract: We present novel evidence on the impact of EU technology subsidies on employment and skill demand in Finnish SMEs, 1994–2018. The subsidies funded new machinery, including robots and CNC machines. Comparing closely matched grant winners and losers, we find that receiving a grant increased employment without changing skill composition. Using machine learning on application texts, we match firms by their evaluation reports, analyze their plans, and show that subsidies primarily supported expansion, such as launching new products, rather than automating work. In contrast, analysis of a broader sample of manufacturing firms outside the program reveals that IT investments are more strongly associated with skill upgrading than machinery investments, consistent with different technologies relating to skill demand differently. Our findings indicate that these grants created opportunities for non-college-educated workers.
 
 ## Work in Progress
 
@@ -27,10 +27,7 @@ Abstract: We present novel evidence on the effects of advanced technologies on e
 (with Otto Kässi and Olli Ropponen)<br>
 </p>
 
-We analyze the effect of business development subsidies granted by Business Finland during the COVID-19
-pandemic. Our main research design utilizes random assignment of cases to officials in constructing a judge
-leniency measure, which provides exogenous variation in the probability of receiving a subsidy. We focus on
-central firm-level outcomes, along with tracking the effects of the subsidies on incumbent workers.
+Abstract: We study the labor market impacts of Finland's initial COVID-19 subsidy program, aimed at mitigating the pandemic's economic fallout. Using a comprehensive and novel dataset, alongside a judge-leniency instrumental variables design, we analyze the effects of the subsidies on both firm and worker levels. Our results indicate that the program increased the wage sum and decreased unemployment risk in treated firms. However, it also led to a reduction in labor productivity, potentially impeding creative destruction. These findings underscore the need to consider potential productivity drawbacks when designing industrial policies during economic crises.
 
 ## Policy Briefs
 
