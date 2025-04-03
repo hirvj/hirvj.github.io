@@ -1,5 +1,4 @@
 ---
-layout: default
 permalink: /
 title: "Bio"
 excerpt: "About me"
