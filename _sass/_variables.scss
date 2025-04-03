@@ -28,9 +28,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : 'STIX Two Text', serif;
-$header-font-family         : 'STIX Two Text', serif;
-$caption-font-family        : 'STIX Two Text', serif;
+$global-font-family         : 'IBM Plex Sans', sans-serif;
+$header-font-family         : 'IBM Plex Sans', sans-serif;
+$caption-font-family        : 'IBM Plex Sans', sans-serif;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
@@ -53,8 +53,8 @@ $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : #1c1c1c;          // Dark background for the entire site
-$background-color           : #1c1c1c;    // Background for sections and containers
+$body-color                 : #2a2a2a;
+$background-color           : #2a2a2a;
 $code-background-color      : #fafafa;
 $code-background-color-dark : $light-gray;
 $text-color                 : #e0e0e0;          // Light text for contrast
