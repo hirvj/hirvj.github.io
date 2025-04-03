@@ -161,8 +161,9 @@
 }
 
 .page__hero-image {
-  border-radius: 0 !important;
-  border: none !important;
+  width: 100%;
+  height: auto;
+  -ms-interpolation-mode: bicubic;
 }
 
 .page__hero-caption {
