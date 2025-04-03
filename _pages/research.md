@@ -32,6 +32,16 @@ Abstract: We study the labor market impacts of Finland's initial COVID-19 subsid
 ## Policy Briefs
 
 <p id="single-spaced">
+<b>The Effects of Covid-related Business Subsidies in Finland</b> (in Finnish) <a href="https://www.etla.fi/wp-content/uploads/ETLA-Raportit-Reports-145.pdf">[link]</a><br>
+(with Olli Ropponen, Heli Koski, Otto Kässi, Nelli Valmari, and Ilkka Ylhäinen). February 2024.<br>
+</p>
+
+<p id="single-spaced">
+<b>Business Finland COVID-19 Support Funding – What Was Achieved, and at What Cost?</b> (in Finnish) <a href="https://www.etla.fi/wp-content/uploads/ETLA-Muistio-Brief-131.pdf">[link]</a><br>
+(with Otto Kässi and Olli Ropponen). December 2023.<br>
+</p>
+
+<p id="single-spaced">
 <b>Did Digitalization Increase the Resilience of Societies During the COVID-19 Pandemic?</b> (in Finnish) <a href="https://www.etla.fi/wp-content/uploads/ETLA-Muistio-Brief-119.pdf">[link]</a><br>
 (with Otto Kässi, Jyrki Ali-Yrkkö, and Mika Pajarinen). March 2023.<br>
 </p>
