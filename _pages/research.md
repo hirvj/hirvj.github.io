@@ -13,23 +13,26 @@ You can find a list of my research also on my [Google Scholar profile](https://s
 ## Working Papers
 
 <p id="single-spaced">
-<b>Winners and Losers of Technology Grants: Evidence on Jobs and Skills</b> <a href="https://www.rfberlin.com/wp-content/uploads/2025/02/25004.pdf">[link]</a><br>
+<b>What Do Technology Grants Do?</b> <a href="https://www.rfberlin.com/wp-content/uploads/2025/02/25004.pdf">[link]</a><br>
 (with Aapo Stenhammar and Joonas Tuhkuri)<br>
 <em>Under revision for the <b>Quarterly Journal of Economics</b></em><br>
 </p>
 
-Abstract: We present novel evidence on the impact of EU technology subsidies on employment and skill demand in Finnish SMEs, 1994–2018. The subsidies funded new machinery, including robots and CNC machines. Comparing closely matched grant winners and losers, we find that receiving a grant increased employment without changing skill composition. Using machine learning on application texts, we match firms by their evaluation reports, analyze their plans, and show that subsidies primarily supported expansion, such as launching new products, rather than automating work. In contrast, analysis of a broader sample of manufacturing firms outside the program reveals that IT investments are more strongly associated with skill upgrading than machinery investments, consistent with different technologies relating to skill demand differently. Our findings indicate that these grants created opportunities for non-college-educated workers.
+Abstract: We present new evidence on the impact of EU technology grants on employment and skill mix in Finnish small and medium-sized manufacturing firms, 1994–2018. The subsidies funded new machinery, including robots. Comparing closely matched grant winners and losers, we find that subsidized investments raised employment by 23 percent with no detectable change in the skill mix. We use machine learning on the text of application evaluations to match firms. We then analyze firms’ stated plans and later actions and find that the subsidies primarily supported expansion—new products and markets—rather than automation of work. By contrast, outside the program, IT investment is more strongly linked to skill upgrading than machinery investment, consistent with different technologies shaping skill demand differently. Technology grants raised employment while leaving the skill mix essentially unchanged, creating opportunities for non-college workers.
 
 ## Work in Progress
 
 <p id="single-spaced">
-<b>Business Development Grants in Disruptive Times</b><br>
+<b>Who Gains from Crisis Subsidies? Firm Productivity, Place, and Labor Reallocation</b><br>
 (with Otto Kässi and Olli Ropponen)<br>
 </p>
 
-Abstract: We study the labor market impacts of Finland's initial COVID-19 subsidy program, aimed at mitigating the pandemic's economic fallout. Using a comprehensive and novel dataset, alongside a judge-leniency instrumental variables design, we analyze the effects of the subsidies on both firm and worker levels. Our results indicate that the program increased the wage sum and decreased unemployment risk in treated firms. However, it also led to a reduction in labor productivity, potentially impeding creative destruction. These findings underscore the need to consider potential productivity drawbacks when designing industrial policies during economic crises.
+<p id="single-spaced">
+<b>From Breakthroughs to Derivatives: How Grants Redirect Inventors</b><br>
+(with Joakim Wikström)<br>
+</p>
 
-## Policy Briefs
+## Policy Reports
 
 <p id="single-spaced">
 <b>The Effects of Covid-related Business Subsidies in Finland</b> (in Finnish) <a href="https://www.etla.fi/wp-content/uploads/ETLA-Raportit-Reports-145.pdf">[link]</a><br>
