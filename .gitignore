@@ -1,2 +1,11 @@
-_site/
+# macOS
+.DS_Store
 
+# Editors
+.vscode/
+.idea/
+
+# Jekyll build artifacts (legacy old/ folder)
+_site/
+.jekyll-cache/
+.sass-cache/
