@@ -204,7 +204,16 @@
       <p style="margin-top: 2rem;">My research has also been covered in Finnish media, including YLE, Helsingin Sanomat, Talouselämä, and Iltalehti.</p>
     </section>
 
+    <footer class="site-footer">&copy; 2026 Johannes Hirvonen</footer>
+
   </main>
+
+  <button class="back-to-top" id="back-to-top" aria-label="Back to top" title="Back to top">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <path d="M12 19V5"></path>
+      <path d="M5 12l7-7 7 7"></path>
+    </svg>
+  </button>
 
   <script>
     (function () {
@@ -239,10 +248,57 @@
         btn.addEventListener('click', function () {
           const abstract = btn.nextElementSibling;
           const isOpen = abstract.classList.toggle('open');
+          abstract.style.maxHeight = isOpen ? (abstract.scrollHeight + 40) + 'px' : '0px';
           btn.textContent = 'Abstract';
           btn.setAttribute('aria-expanded', String(isOpen));
         });
       });
+
+      const sections = Array.from(document.querySelectorAll('main section[id]'));
+      const navLinks = document.querySelectorAll('.nav a');
+      const linkById = {};
+      navLinks.forEach(function (link) {
+        const href = link.getAttribute('href') || '';
+        if (href.startsWith('#')) linkById[href.slice(1)] = link;
+      });
+
+      function updateActiveNav() {
+        const threshold = window.innerHeight * 0.25;
+        let currentId = null;
+        for (let i = 0; i < sections.length; i++) {
+          if (sections[i].getBoundingClientRect().top <= threshold) {
+            currentId = sections[i].id;
+          }
+        }
+        navLinks.forEach(function (l) { l.classList.remove('active'); });
+        if (currentId && linkById[currentId]) linkById[currentId].classList.add('active');
+      }
+
+      const backToTop = document.getElementById('back-to-top');
+      const bioSection = document.getElementById('bio');
+
+      function updateBackToTop() {
+        const threshold = bioSection ? bioSection.getBoundingClientRect().bottom : 200;
+        backToTop.classList.toggle('visible', threshold < 0);
+      }
+
+      backToTop.addEventListener('click', function () {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+      });
+
+      let navTicking = false;
+      window.addEventListener('scroll', function () {
+        if (!navTicking) {
+          requestAnimationFrame(function () {
+            updateActiveNav();
+            updateBackToTop();
+            navTicking = false;
+          });
+          navTicking = true;
+        }
+      }, { passive: true });
+      updateActiveNav();
+      updateBackToTop();
     })();
   </script>
 
